@@ -1,7 +1,7 @@
-base     dmebootstrap
+base     bootstrap
 author   David Mézière
 email    dmeziere@free.fr
 date     2014-11-27
 name     Bootstrap Template
 desc     DokuWiki template for Bootstrap 3.
-url      https://github.com/dmeziere
+url      https://github.com/dmeziere/dokuwiki-bootstrap-template
